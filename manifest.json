@@ -1,11 +1,11 @@
 {
  "chunks": [
   {
-   "bytes": 17732,
+   "bytes": 24539,
    "kind": "categories",
-   "path": "chunks/9be4796771ac75d3e7a0cf5c280e4373853d8c0414afad15fb0308466b0de1e9.json",
+   "path": "chunks/234496631b98a2c09b9c3fe0caeafb19f3d34c07e2c5973168bbde21e35d085a.json",
    "record_count": 76,
-   "sha256": "9be4796771ac75d3e7a0cf5c280e4373853d8c0414afad15fb0308466b0de1e9"
+   "sha256": "234496631b98a2c09b9c3fe0caeafb19f3d34c07e2c5973168bbde21e35d085a"
   },
   {
    "bytes": 134466,
@@ -22,44 +22,44 @@
    "sha256": "74514756860ab302c2900b7396d1dac20abfed9d7d371e78868f0456cf21759f"
   },
   {
-   "bytes": 90494,
+   "bytes": 90341,
    "kind": "retailer",
-   "path": "chunks/02e7e38d9e7f573b712fee7d2b88e67fbc010f02ebd22f75374d4dab277f1ef1.json",
+   "path": "chunks/c7bfcd8c0dc87f3949734eec19db21828e8e7e2fe69e33a2ad48d11b9d655d6f.json",
    "record_count": 146,
    "retailer_id": "migros",
-   "sha256": "02e7e38d9e7f573b712fee7d2b88e67fbc010f02ebd22f75374d4dab277f1ef1"
+   "sha256": "c7bfcd8c0dc87f3949734eec19db21828e8e7e2fe69e33a2ad48d11b9d655d6f"
   },
   {
-   "bytes": 1662871,
+   "bytes": 1658807,
    "kind": "retailer",
-   "path": "chunks/32cc5550a12b0e9f16296d83acd6b0d803263718f877895052d5fe04af657ab3.json",
+   "path": "chunks/b3cfef7cee05d47d3dab1d4b2297cc70dcfaff0ae1fc388149231ff88aa68801.json",
    "record_count": 2431,
    "retailer_id": "aldi",
-   "sha256": "32cc5550a12b0e9f16296d83acd6b0d803263718f877895052d5fe04af657ab3"
+   "sha256": "b3cfef7cee05d47d3dab1d4b2297cc70dcfaff0ae1fc388149231ff88aa68801"
   },
   {
-   "bytes": 484187,
+   "bytes": 482994,
    "kind": "retailer",
-   "path": "chunks/ecfe59926e15a48749b7ffa584f4f8369ba02466b2fe6d33a3a90660740cc59d.json",
+   "path": "chunks/958af2c369a707782fc6d1ad6cfa77ef7f96bff045ac4563ce383dfa9f8d673a.json",
    "record_count": 1168,
    "retailer_id": "lidl",
-   "sha256": "ecfe59926e15a48749b7ffa584f4f8369ba02466b2fe6d33a3a90660740cc59d"
+   "sha256": "958af2c369a707782fc6d1ad6cfa77ef7f96bff045ac4563ce383dfa9f8d673a"
   },
   {
-   "bytes": 147958,
+   "bytes": 147804,
    "kind": "retailer",
-   "path": "chunks/d0384ba3b6d54d0303e911a23258b7fad9b6e9e5a5bd4877ca4d1fcc46bcd355.json",
+   "path": "chunks/6acba84eaf307a42024bafb775641dc371aa90da152d32df957d042550e5bfd0.json",
    "record_count": 173,
    "retailer_id": "denner",
-   "sha256": "d0384ba3b6d54d0303e911a23258b7fad9b6e9e5a5bd4877ca4d1fcc46bcd355"
+   "sha256": "6acba84eaf307a42024bafb775641dc371aa90da152d32df957d042550e5bfd0"
   },
   {
-   "bytes": 398510,
+   "bytes": 397837,
    "kind": "retailer",
-   "path": "chunks/96c9b30e9f197f6ac51b3f9309af1e421a5acb29c0f8fe90162b516b59ad69c3.json",
+   "path": "chunks/882d94d73457ec7f422a1b3bea26db884254fbfcbd7439092528581ed4205458.json",
    "record_count": 722,
    "retailer_id": "volg",
-   "sha256": "96c9b30e9f197f6ac51b3f9309af1e421a5acb29c0f8fe90162b516b59ad69c3"
+   "sha256": "882d94d73457ec7f422a1b3bea26db884254fbfcbd7439092528581ed4205458"
   },
   {
    "bytes": 15578,
@@ -73,7 +73,7 @@
  "development_fixture": false,
  "generator": "grocerywiz-ingest 0.1",
  "max_age_hours": 48,
- "published_at": "2026-10-11T19:18:59+00:00",
+ "published_at": "2026-10-11T19:41:14+00:00",
  "region": {
   "center": {
    "lat": 47.3769,
@@ -87,7 +87,7 @@
  },
  "regular_max_age_hours": 168,
  "schema_version": 1,
- "snapshot_id": "ch-zh-2026-10-11-8c972d1fb561",
+ "snapshot_id": "ch-zh-2026-10-11-28a228a2f90f",
  "sources": [
   {
    "coverage": "catalogue",
