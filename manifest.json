@@ -54,12 +54,12 @@
    "sha256": "6acba84eaf307a42024bafb775641dc371aa90da152d32df957d042550e5bfd0"
   },
   {
-   "bytes": 397837,
+   "bytes": 397940,
    "kind": "retailer",
-   "path": "chunks/882d94d73457ec7f422a1b3bea26db884254fbfcbd7439092528581ed4205458.json",
+   "path": "chunks/8465063a4fcca70c764a3e7f2f3e1dbd71938f1dc290757f08fb4d97139e1d74.json",
    "record_count": 722,
    "retailer_id": "volg",
-   "sha256": "882d94d73457ec7f422a1b3bea26db884254fbfcbd7439092528581ed4205458"
+   "sha256": "8465063a4fcca70c764a3e7f2f3e1dbd71938f1dc290757f08fb4d97139e1d74"
   },
   {
    "bytes": 15578,
@@ -73,7 +73,7 @@
  "development_fixture": false,
  "generator": "grocerywiz-ingest 0.1",
  "max_age_hours": 48,
- "published_at": "2026-10-11T20:14:45+00:00",
+ "published_at": "2026-10-11T20:17:50+00:00",
  "region": {
   "center": {
    "lat": 47.3769,
@@ -87,7 +87,7 @@
  },
  "regular_max_age_hours": 168,
  "schema_version": 1,
- "snapshot_id": "ch-zh-2026-10-11-1195629370c1",
+ "snapshot_id": "ch-zh-2026-10-11-14bb2a8b0920",
  "sources": [
   {
    "coverage": "catalogue",
