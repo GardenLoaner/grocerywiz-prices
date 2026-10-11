@@ -22,12 +22,12 @@
    "sha256": "74514756860ab302c2900b7396d1dac20abfed9d7d371e78868f0456cf21759f"
   },
   {
-   "bytes": 90341,
+   "bytes": 90407,
    "kind": "retailer",
-   "path": "chunks/c7bfcd8c0dc87f3949734eec19db21828e8e7e2fe69e33a2ad48d11b9d655d6f.json",
+   "path": "chunks/f3e13934dac04e12a2c1f66a02a5d331baa4118d8b267fe21a173ecdd0e13f9c.json",
    "record_count": 146,
    "retailer_id": "migros",
-   "sha256": "c7bfcd8c0dc87f3949734eec19db21828e8e7e2fe69e33a2ad48d11b9d655d6f"
+   "sha256": "f3e13934dac04e12a2c1f66a02a5d331baa4118d8b267fe21a173ecdd0e13f9c"
   },
   {
    "bytes": 1658807,
@@ -73,7 +73,7 @@
  "development_fixture": false,
  "generator": "grocerywiz-ingest 0.1",
  "max_age_hours": 48,
- "published_at": "2026-10-11T19:41:14+00:00",
+ "published_at": "2026-10-11T20:14:45+00:00",
  "region": {
   "center": {
    "lat": 47.3769,
@@ -87,7 +87,7 @@
  },
  "regular_max_age_hours": 168,
  "schema_version": 1,
- "snapshot_id": "ch-zh-2026-10-11-28a228a2f90f",
+ "snapshot_id": "ch-zh-2026-10-11-1195629370c1",
  "sources": [
   {
    "coverage": "catalogue",
