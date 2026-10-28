@@ -22,28 +22,28 @@
    "sha256": "74514756860ab302c2900b7396d1dac20abfed9d7d371e78868f0456cf21759f"
   },
   {
-   "bytes": 607840,
+   "bytes": 603848,
    "kind": "retailer",
-   "path": "chunks/21660d198ab9a178892918dff5e3bf3344de61e0bd7400922fb83a04a918bdad.json",
-   "record_count": 925,
+   "path": "chunks/d6b1a2ceb7a72bbe4aca25842e3ff80758af6ba80c240a99e03562c17ba750f0.json",
+   "record_count": 919,
    "retailer_id": "migros",
-   "sha256": "21660d198ab9a178892918dff5e3bf3344de61e0bd7400922fb83a04a918bdad"
+   "sha256": "d6b1a2ceb7a72bbe4aca25842e3ff80758af6ba80c240a99e03562c17ba750f0"
   },
   {
-   "bytes": 1811455,
+   "bytes": 1838927,
    "kind": "retailer",
-   "path": "chunks/1a0de4861459b80d2de9e894f2358432bb2f3480823a11a51e94cd66822c4957.json",
-   "record_count": 2497,
+   "path": "chunks/bd3b027b90eae5374d0e9a4eaba35ebaa3a75a7673a89394bcf629b11c8deecb.json",
+   "record_count": 2509,
    "retailer_id": "aldi",
-   "sha256": "1a0de4861459b80d2de9e894f2358432bb2f3480823a11a51e94cd66822c4957"
+   "sha256": "bd3b027b90eae5374d0e9a4eaba35ebaa3a75a7673a89394bcf629b11c8deecb"
   },
   {
-   "bytes": 530674,
+   "bytes": 525679,
    "kind": "retailer",
-   "path": "chunks/19c603ac7b904e7027eb4c39b27ba1053e0d523f505d4753cbf82ef23872d0e5.json",
-   "record_count": 1257,
+   "path": "chunks/d1b104265f171292ca858e11ebe52809548dcc904d48cc2c3b79ba91e8e11dfd.json",
+   "record_count": 1255,
    "retailer_id": "lidl",
-   "sha256": "19c603ac7b904e7027eb4c39b27ba1053e0d523f505d4753cbf82ef23872d0e5"
+   "sha256": "d1b104265f171292ca858e11ebe52809548dcc904d48cc2c3b79ba91e8e11dfd"
   },
   {
    "bytes": 390038,
@@ -65,7 +65,7 @@
  "development_fixture": false,
  "generator": "grocerywiz-ingest 0.1",
  "max_age_hours": 48,
- "published_at": "2026-10-27T06:30:03+01:00",
+ "published_at": "2026-10-28T06:30:05+01:00",
  "region": {
   "center": {
    "lat": 47.3769,
@@ -79,14 +79,14 @@
  },
  "regular_max_age_hours": 168,
  "schema_version": 1,
- "snapshot_id": "ch-zh-2026-10-27-a04457b2d4fb",
+ "snapshot_id": "ch-zh-2026-10-28-92ffcb52a59a",
  "sources": [
   {
    "coverage": "catalogue",
-   "detail": "200 products, 174 quarantined; partial enumeration; unseen records retain original verification; {\"terms\": {\"https://migipedia.migros.ch/de/suche?term=Milch\": 6, \"https://migipedia.migros.ch/de/suche?term=Brot\": 4, \"https://migipedia.migros.ch/de/suche?term=Reis\": 7, \"https://migipedia.migros.ch/de/suche?term=Teigwaren\": 0, \"https://migipedia.migros.ch/de/suche?term=Eier\": 12, \"https://migipedia.migros.ch/de/suche?term=Apfel\": 12, \"https://migipedia.migros.ch/de/suche?term=Kartoffeln\": 3, \"https://migipedia.migros.ch/de/suche?term=Tomaten\": 1, \"https://migipedia.migros.ch/de/suche?term=Karotten\": 4, \"https://migipedia.migros.ch/de/suche?term=Zwiebeln\": 7, \"https://migipedia.migros.ch/de/suche?term=Emmentaler\": 21, \"https://migipedia.migros.ch/de/suche?term=Cervelat\": 12, \"https://migipedia.migros.ch/de/suche?term=Wodka\": 0, \"https://migipedia.migros.ch/de/suche?term=Bananen\": 5, \"https://migipedia.migros.ch/de/suche?term=Orangen\": 9, \"https://migipedia.migros.ch/de/suche?term=Zitronen\": 23, \"https://migipedia.migros.ch/de/suche?term=Birnen\": 24, \"https://migipedia.migros.ch/de/suche?term=Trauben\": 8, \"https://migipedia.migros.ch/de/suche?term=Erdbeeren\": 8, \"https://migipedia.migros.ch/de/suche?term=Avocado\": 16, \"https://migipedia.migros.ch/de/suche?term=Weissmehl\": 10, \"https://migipedia.migros.ch/de/suche?term=Zucker\": 4, \"https://migipedia.migros.ch/de/suche?term=Salz\": 15, \"https://migipedia.migros.ch/de/suche?term=Haferflocken\": 13, \"https://migipedia.migros.ch/de/suche?term=M%C3%BCesli\": 10}, \"discovered\": 1138, \"partial\": true}; endpoint failures: budget: migros: request budget of 400 reached",
-   "last_attempt_at": "2026-10-27T06:30:03+01:00",
-   "last_verified_at": "2026-10-21T06:30:06+02:00",
-   "record_count": 925,
+   "detail": "192 products, 182 quarantined; partial enumeration; unseen records retain original verification; {\"terms\": {\"https://migipedia.migros.ch/de/suche?term=Milch\": 6, \"https://migipedia.migros.ch/de/suche?term=Brot\": 4, \"https://migipedia.migros.ch/de/suche?term=Reis\": 8, \"https://migipedia.migros.ch/de/suche?term=Teigwaren\": 0, \"https://migipedia.migros.ch/de/suche?term=Eier\": 11, \"https://migipedia.migros.ch/de/suche?term=Apfel\": 12, \"https://migipedia.migros.ch/de/suche?term=Kartoffeln\": 3, \"https://migipedia.migros.ch/de/suche?term=Tomaten\": 1, \"https://migipedia.migros.ch/de/suche?term=Karotten\": 4, \"https://migipedia.migros.ch/de/suche?term=Zwiebeln\": 7, \"https://migipedia.migros.ch/de/suche?term=Emmentaler\": 21, \"https://migipedia.migros.ch/de/suche?term=Cervelat\": 12, \"https://migipedia.migros.ch/de/suche?term=Wodka\": 0, \"https://migipedia.migros.ch/de/suche?term=Toastbrot\": 9, \"https://migipedia.migros.ch/de/suche?term=Linsen\": 15, \"https://migipedia.migros.ch/de/suche?term=Kichererbsen\": 8, \"https://migipedia.migros.ch/de/suche?term=Pelati\": 0, \"https://migipedia.migros.ch/de/suche?term=Tomatensauce\": 2, \"https://migipedia.migros.ch/de/suche?term=Oliven%C3%B6l\": 5, \"https://migipedia.migros.ch/de/suche?term=Sonnenblumen%C3%B6l\": 4, \"https://migipedia.migros.ch/de/suche?term=Pouletbrust\": 14, \"https://migipedia.migros.ch/de/suche?term=Rindshackfleisch\": 13, \"https://migipedia.migros.ch/de/suche?term=Lachs\": 2, \"https://migipedia.migros.ch/de/suche?term=Thon\": 2, \"https://migipedia.migros.ch/de/suche?term=Schinken\": 13}, \"discovered\": 1101, \"partial\": true}; endpoint failures: budget: migros: request budget of 400 reached",
+   "last_attempt_at": "2026-10-28T06:30:05+01:00",
+   "last_verified_at": "2026-10-23T06:30:03+02:00",
+   "record_count": 919,
    "retailer_id": "migros",
    "status": "ok"
   },
@@ -99,26 +99,26 @@
   },
   {
    "coverage": "catalogue",
-   "detail": "2459 products, 12 quarantined; partial enumeration; unseen records retain original verification",
-   "last_attempt_at": "2026-10-27T06:30:03+01:00",
-   "last_verified_at": "2026-10-21T06:30:06+02:00",
-   "record_count": 2497,
+   "detail": "2438 products, 12 quarantined; partial enumeration; unseen records retain original verification",
+   "last_attempt_at": "2026-10-28T06:30:05+01:00",
+   "last_verified_at": "2026-10-22T06:30:04+02:00",
+   "record_count": 2509,
    "retailer_id": "aldi",
    "status": "ok"
   },
   {
    "coverage": "catalogue",
    "detail": "1237 products, 2 quarantined; partial enumeration; unseen records retain original verification",
-   "last_attempt_at": "2026-10-27T06:30:03+01:00",
-   "last_verified_at": "2026-10-21T06:30:06+02:00",
-   "record_count": 1257,
+   "last_attempt_at": "2026-10-28T06:30:05+01:00",
+   "last_verified_at": "2026-10-22T06:30:04+02:00",
+   "record_count": 1255,
    "retailer_id": "lidl",
    "status": "ok"
   },
   {
    "coverage": "offers_only",
    "detail": "suspicious result: 29 usable products, expected at least 40",
-   "last_attempt_at": "2026-10-27T06:30:03+01:00",
+   "last_attempt_at": "2026-10-28T06:30:05+01:00",
    "record_count": 0,
    "retailer_id": "denner",
    "status": "failed"
@@ -126,8 +126,8 @@
   {
    "coverage": "catalogue",
    "detail": "722 products, 0 quarantined; partial enumeration; unseen records retain original verification; Volgshop discovered=697; detail queue=15; enrichment backlog=0; listing pages=35 (cap 38)",
-   "last_attempt_at": "2026-10-27T06:30:03+01:00",
-   "last_verified_at": "2026-10-27T06:30:03+01:00",
+   "last_attempt_at": "2026-10-28T06:30:05+01:00",
+   "last_verified_at": "2026-10-28T06:30:05+01:00",
    "record_count": 722,
    "retailer_id": "volg",
    "status": "ok"
@@ -135,8 +135,8 @@
   {
    "coverage": "offers_only",
    "detail": "28 products, 0 quarantined; partial enumeration; unseen records retain original verification",
-   "last_attempt_at": "2026-10-27T06:30:03+01:00",
-   "last_verified_at": "2026-10-27T06:30:03+01:00",
+   "last_attempt_at": "2026-10-28T06:30:05+01:00",
+   "last_verified_at": "2026-10-28T06:30:05+01:00",
    "record_count": 28,
    "retailer_id": "spar",
    "status": "ok"
