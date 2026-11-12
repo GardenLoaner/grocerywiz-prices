@@ -22,28 +22,28 @@
    "sha256": "74514756860ab302c2900b7396d1dac20abfed9d7d371e78868f0456cf21759f"
   },
   {
-   "bytes": 713672,
+   "bytes": 723173,
    "kind": "retailer",
-   "path": "chunks/7ad15a6f2b5248cbf510202cf2d22034b3ba8f8a2d295b0abae125b2fb6324bc.json",
-   "record_count": 1084,
+   "path": "chunks/a82776228620388d11bfbcc16e4ac393b0517b08a4122a5fcae07be8fa02e44f.json",
+   "record_count": 1098,
    "retailer_id": "migros",
-   "sha256": "7ad15a6f2b5248cbf510202cf2d22034b3ba8f8a2d295b0abae125b2fb6324bc"
+   "sha256": "a82776228620388d11bfbcc16e4ac393b0517b08a4122a5fcae07be8fa02e44f"
   },
   {
-   "bytes": 1982297,
+   "bytes": 2048781,
    "kind": "retailer",
-   "path": "chunks/8dde6e1d66f1d04460aa03c82aacbe9e623fcc65a226ea0a8be730875c71b706.json",
-   "record_count": 2670,
+   "path": "chunks/8e0177cf7e7ecf0f45f8ab001b67ffaf5e05a5d49a71bebc67c59269a2a34763.json",
+   "record_count": 2767,
    "retailer_id": "aldi",
-   "sha256": "8dde6e1d66f1d04460aa03c82aacbe9e623fcc65a226ea0a8be730875c71b706"
+   "sha256": "8e0177cf7e7ecf0f45f8ab001b67ffaf5e05a5d49a71bebc67c59269a2a34763"
   },
   {
-   "bytes": 349781,
+   "bytes": 360168,
    "kind": "retailer",
-   "path": "chunks/0226b372ccfff98c91282627f3e38da8c85f170e2e3a0aa96727e25b008fb6c9.json",
-   "record_count": 926,
+   "path": "chunks/1d86744f80dfaabbc3f30e7f3172d6056abfa19486ee1a4d410adcda67ee06c4.json",
+   "record_count": 941,
    "retailer_id": "lidl",
-   "sha256": "0226b372ccfff98c91282627f3e38da8c85f170e2e3a0aa96727e25b008fb6c9"
+   "sha256": "1d86744f80dfaabbc3f30e7f3172d6056abfa19486ee1a4d410adcda67ee06c4"
   },
   {
    "bytes": 389292,
@@ -54,18 +54,18 @@
    "sha256": "339f80f056e1b23c8e013a2c94672e850bd3f49f01dc8d42cee1ea9e69a06726"
   },
   {
-   "bytes": 15488,
+   "bytes": 32746,
    "kind": "retailer",
-   "path": "chunks/f5d7bd325320487f2a8d0acfeba4864d21a7ce03c6dbff6cd2dccce8d6d7825a.json",
-   "record_count": 27,
+   "path": "chunks/b9e888cfa77132ef85ed294fd3bd70801d33afddda6c7d4494bc8de0305122c6.json",
+   "record_count": 55,
    "retailer_id": "spar",
-   "sha256": "f5d7bd325320487f2a8d0acfeba4864d21a7ce03c6dbff6cd2dccce8d6d7825a"
+   "sha256": "b9e888cfa77132ef85ed294fd3bd70801d33afddda6c7d4494bc8de0305122c6"
   }
  ],
  "development_fixture": false,
  "generator": "grocerywiz-ingest 0.1",
  "max_age_hours": 48,
- "published_at": "2026-11-11T06:30:06+01:00",
+ "published_at": "2026-11-12T06:30:03+01:00",
  "region": {
   "center": {
    "lat": 47.3769,
@@ -79,14 +79,14 @@
  },
  "regular_max_age_hours": 168,
  "schema_version": 1,
- "snapshot_id": "ch-zh-2026-11-11-7f621b661e5f",
+ "snapshot_id": "ch-zh-2026-11-12-d87c31f2a55e",
  "sources": [
   {
    "coverage": "catalogue",
-   "detail": "204 products, 169 quarantined; partial enumeration; unseen records retain original verification; {\"terms\": {\"https://migipedia.migros.ch/de/suche?term=Milch\": 8, \"https://migipedia.migros.ch/de/suche?term=Brot\": 3, \"https://migipedia.migros.ch/de/suche?term=Reis\": 2, \"https://migipedia.migros.ch/de/suche?term=Teigwaren\": 0, \"https://migipedia.migros.ch/de/suche?term=Eier\": 11, \"https://migipedia.migros.ch/de/suche?term=Apfel\": 11, \"https://migipedia.migros.ch/de/suche?term=Kartoffeln\": 5, \"https://migipedia.migros.ch/de/suche?term=Tomaten\": 0, \"https://migipedia.migros.ch/de/suche?term=Karotten\": 4, \"https://migipedia.migros.ch/de/suche?term=Zwiebeln\": 7, \"https://migipedia.migros.ch/de/suche?term=Emmentaler\": 20, \"https://migipedia.migros.ch/de/suche?term=Cervelat\": 11, \"https://migipedia.migros.ch/de/suche?term=Wodka\": 0, \"https://migipedia.migros.ch/de/suche?term=Frischk%C3%A4se\": 7, \"https://migipedia.migros.ch/de/suche?term=Mozzarella\": 7, \"https://migipedia.migros.ch/de/suche?term=Gruy%C3%A8re\": 24, \"https://migipedia.migros.ch/de/suche?term=Parmesan\": 22, \"https://migipedia.migros.ch/de/suche?term=Gurke\": 7, \"https://migipedia.migros.ch/de/suche?term=Peperoni\": 14, \"https://migipedia.migros.ch/de/suche?term=Salat\": 6, \"https://migipedia.migros.ch/de/suche?term=Zucchetti\": 4, \"https://migipedia.migros.ch/de/suche?term=Broccoli\": 8, \"https://migipedia.migros.ch/de/suche?term=Champignons\": 9, \"https://migipedia.migros.ch/de/suche?term=Knoblauch\": 8, \"https://migipedia.migros.ch/de/suche?term=%C3%84pfel\": 0}, \"discovered\": 1275, \"partial\": true}; endpoint failures: budget: migros: request budget of 400 reached",
-   "last_attempt_at": "2026-11-11T06:30:06+01:00",
+   "detail": "195 products, 179 quarantined; partial enumeration; unseen records retain original verification; {\"terms\": {\"https://migipedia.migros.ch/de/suche?term=Milch\": 9, \"https://migipedia.migros.ch/de/suche?term=Brot\": 4, \"https://migipedia.migros.ch/de/suche?term=Reis\": 1, \"https://migipedia.migros.ch/de/suche?term=Teigwaren\": 0, \"https://migipedia.migros.ch/de/suche?term=Eier\": 11, \"https://migipedia.migros.ch/de/suche?term=Apfel\": 12, \"https://migipedia.migros.ch/de/suche?term=Kartoffeln\": 5, \"https://migipedia.migros.ch/de/suche?term=Tomaten\": 0, \"https://migipedia.migros.ch/de/suche?term=Karotten\": 4, \"https://migipedia.migros.ch/de/suche?term=Zwiebeln\": 7, \"https://migipedia.migros.ch/de/suche?term=Emmentaler\": 20, \"https://migipedia.migros.ch/de/suche?term=Cervelat\": 12, \"https://migipedia.migros.ch/de/suche?term=Wodka\": 0, \"https://migipedia.migros.ch/de/suche?term=Bananen\": 5, \"https://migipedia.migros.ch/de/suche?term=Orangen\": 5, \"https://migipedia.migros.ch/de/suche?term=Zitronen\": 7, \"https://migipedia.migros.ch/de/suche?term=Birnen\": 19, \"https://migipedia.migros.ch/de/suche?term=Trauben\": 7, \"https://migipedia.migros.ch/de/suche?term=Erdbeeren\": 7, \"https://migipedia.migros.ch/de/suche?term=Avocado\": 16, \"https://migipedia.migros.ch/de/suche?term=Weissmehl\": 4, \"https://migipedia.migros.ch/de/suche?term=Zucker\": 1, \"https://migipedia.migros.ch/de/suche?term=Salz\": 13, \"https://migipedia.migros.ch/de/suche?term=Haferflocken\": 9, \"https://migipedia.migros.ch/de/suche?term=M%C3%BCesli\": 1}, \"discovered\": 1263, \"partial\": true}; endpoint failures: budget: migros: request budget of 400 reached",
+   "last_attempt_at": "2026-11-12T06:30:03+01:00",
    "last_verified_at": "2026-11-05T06:30:05+01:00",
-   "record_count": 1084,
+   "record_count": 1098,
    "retailer_id": "migros",
    "status": "ok"
   },
@@ -99,26 +99,26 @@
   },
   {
    "coverage": "catalogue",
-   "detail": "2581 products, 9 quarantined; partial enumeration; unseen records retain original verification",
-   "last_attempt_at": "2026-11-11T06:30:06+01:00",
+   "detail": "2672 products, 9 quarantined; partial enumeration; unseen records retain original verification",
+   "last_attempt_at": "2026-11-12T06:30:03+01:00",
    "last_verified_at": "2026-11-05T06:30:05+01:00",
-   "record_count": 2670,
+   "record_count": 2767,
    "retailer_id": "aldi",
    "status": "ok"
   },
   {
    "coverage": "catalogue",
-   "detail": "891 products, 40 quarantined; partial enumeration; unseen records retain original verification",
-   "last_attempt_at": "2026-11-11T06:30:06+01:00",
+   "detail": "876 products, 52 quarantined; partial enumeration; unseen records retain original verification",
+   "last_attempt_at": "2026-11-12T06:30:03+01:00",
    "last_verified_at": "2026-11-05T06:30:05+01:00",
-   "record_count": 926,
+   "record_count": 941,
    "retailer_id": "lidl",
    "status": "ok"
   },
   {
    "coverage": "offers_only",
-   "detail": "suspicious result: 30 usable products, expected at least 40",
-   "last_attempt_at": "2026-11-11T06:30:06+01:00",
+   "detail": "suspicious result: 28 usable products, expected at least 40",
+   "last_attempt_at": "2026-11-12T06:30:03+01:00",
    "record_count": 0,
    "retailer_id": "denner",
    "status": "failed"
@@ -126,18 +126,18 @@
   {
    "coverage": "catalogue",
    "detail": "722 products, 0 quarantined; partial enumeration; unseen records retain original verification; Volgshop discovered=697; detail queue=15; enrichment backlog=0; listing pages=35 (cap 38)",
-   "last_attempt_at": "2026-11-11T06:30:06+01:00",
-   "last_verified_at": "2026-11-11T06:30:06+01:00",
+   "last_attempt_at": "2026-11-12T06:30:03+01:00",
+   "last_verified_at": "2026-11-12T06:30:03+01:00",
    "record_count": 722,
    "retailer_id": "volg",
    "status": "ok"
   },
   {
    "coverage": "offers_only",
-   "detail": "27 products, 0 quarantined; partial enumeration; unseen records retain original verification",
-   "last_attempt_at": "2026-11-11T06:30:06+01:00",
+   "detail": "28 products, 0 quarantined; partial enumeration; unseen records retain original verification",
+   "last_attempt_at": "2026-11-12T06:30:03+01:00",
    "last_verified_at": "2026-11-11T06:30:06+01:00",
-   "record_count": 27,
+   "record_count": 55,
    "retailer_id": "spar",
    "status": "ok"
   }
