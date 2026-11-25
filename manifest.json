@@ -22,28 +22,20 @@
    "sha256": "74514756860ab302c2900b7396d1dac20abfed9d7d371e78868f0456cf21759f"
   },
   {
-   "bytes": 122252,
+   "bytes": 2009519,
    "kind": "retailer",
-   "path": "chunks/1b3a2535bf0ec45e36a5c6c2fc31c14295d922175faf451511974f282758a5fb.json",
-   "record_count": 197,
-   "retailer_id": "migros",
-   "sha256": "1b3a2535bf0ec45e36a5c6c2fc31c14295d922175faf451511974f282758a5fb"
-  },
-  {
-   "bytes": 1995448,
-   "kind": "retailer",
-   "path": "chunks/0f20e4a1d5b80dd853480cd7c91bda4094b43ef09a23bcd569f240cd0cbab936.json",
-   "record_count": 2730,
+   "path": "chunks/c198ade01c7b9588629d694a9ffa5fa88e6ab3713dfa8ed456c0feed3a1aecb7.json",
+   "record_count": 2746,
    "retailer_id": "aldi",
-   "sha256": "0f20e4a1d5b80dd853480cd7c91bda4094b43ef09a23bcd569f240cd0cbab936"
+   "sha256": "c198ade01c7b9588629d694a9ffa5fa88e6ab3713dfa8ed456c0feed3a1aecb7"
   },
   {
-   "bytes": 363862,
+   "bytes": 360355,
    "kind": "retailer",
-   "path": "chunks/3ea65ab6d1a73cd24ce4b3af7f8049f957e7cc6ac99f092c9369d146c9bdd192.json",
-   "record_count": 954,
+   "path": "chunks/31b63c9d43898565949aaa8f2930217a1a2e530e0ffdaf1d01948dcb0fd7a907.json",
+   "record_count": 946,
    "retailer_id": "lidl",
-   "sha256": "3ea65ab6d1a73cd24ce4b3af7f8049f957e7cc6ac99f092c9369d146c9bdd192"
+   "sha256": "31b63c9d43898565949aaa8f2930217a1a2e530e0ffdaf1d01948dcb0fd7a907"
   },
   {
    "bytes": 392119,
@@ -65,7 +57,7 @@
  "development_fixture": false,
  "generator": "grocerywiz-ingest 0.1",
  "max_age_hours": 48,
- "published_at": "2026-11-24T06:30:05+01:00",
+ "published_at": "2026-11-25T06:30:04+01:00",
  "region": {
   "center": {
    "lat": 47.3769,
@@ -79,14 +71,13 @@
  },
  "regular_max_age_hours": 168,
  "schema_version": 1,
- "snapshot_id": "ch-zh-2026-11-24-24bdac05794a",
+ "snapshot_id": "ch-zh-2026-11-25-746f619cfa60",
  "sources": [
   {
    "coverage": "catalogue",
    "detail": "parse: migipedia: no usable Zürich regular prices",
-   "last_attempt_at": "2026-11-24T06:30:05+01:00",
-   "last_verified_at": "2026-11-18T06:30:04+01:00",
-   "record_count": 197,
+   "last_attempt_at": "2026-11-25T06:30:04+01:00",
+   "record_count": 0,
    "retailer_id": "migros",
    "status": "failed"
   },
@@ -99,35 +90,35 @@
   },
   {
    "coverage": "catalogue",
-   "detail": "2722 products, 8 quarantined; partial enumeration; unseen records retain original verification",
-   "last_attempt_at": "2026-11-24T06:30:05+01:00",
-   "last_verified_at": "2026-11-18T06:30:04+01:00",
-   "record_count": 2730,
+   "detail": "2675 products, 8 quarantined; partial enumeration; unseen records retain original verification",
+   "last_attempt_at": "2026-11-25T06:30:04+01:00",
+   "last_verified_at": "2026-11-20T06:30:04+01:00",
+   "record_count": 2746,
    "retailer_id": "aldi",
    "status": "ok"
   },
   {
    "coverage": "catalogue",
-   "detail": "915 products, 19 quarantined; partial enumeration; unseen records retain original verification",
-   "last_attempt_at": "2026-11-24T06:30:05+01:00",
-   "last_verified_at": "2026-11-18T06:30:04+01:00",
-   "record_count": 954,
+   "detail": "914 products, 19 quarantined; partial enumeration; unseen records retain original verification",
+   "last_attempt_at": "2026-11-25T06:30:04+01:00",
+   "last_verified_at": "2026-11-19T06:30:05+01:00",
+   "record_count": 946,
    "retailer_id": "lidl",
    "status": "ok"
   },
   {
    "coverage": "offers_only",
    "detail": "suspicious result: 0 usable products, expected at least 40",
-   "last_attempt_at": "2026-11-24T06:30:05+01:00",
+   "last_attempt_at": "2026-11-25T06:30:04+01:00",
    "record_count": 0,
    "retailer_id": "denner",
    "status": "failed"
   },
   {
    "coverage": "catalogue",
-   "detail": "727 products, 0 quarantined; partial enumeration; unseen records retain original verification; Volgshop discovered=702; detail queue=17; enrichment backlog=0; listing pages=36 (cap 38)",
-   "last_attempt_at": "2026-11-24T06:30:05+01:00",
-   "last_verified_at": "2026-11-24T06:30:05+01:00",
+   "detail": "727 products, 0 quarantined; partial enumeration; unseen records retain original verification; Volgshop discovered=702; detail queue=15; enrichment backlog=0; listing pages=36 (cap 38)",
+   "last_attempt_at": "2026-11-25T06:30:04+01:00",
+   "last_verified_at": "2026-11-25T06:30:04+01:00",
    "record_count": 727,
    "retailer_id": "volg",
    "status": "ok"
@@ -135,8 +126,8 @@
   {
    "coverage": "offers_only",
    "detail": "28 products, 0 quarantined; partial enumeration; unseen records retain original verification",
-   "last_attempt_at": "2026-11-24T06:30:05+01:00",
-   "last_verified_at": "2026-11-24T06:30:05+01:00",
+   "last_attempt_at": "2026-11-25T06:30:04+01:00",
+   "last_verified_at": "2026-11-25T06:30:04+01:00",
    "record_count": 28,
    "retailer_id": "spar",
    "status": "ok"
